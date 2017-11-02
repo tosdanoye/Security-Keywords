@@ -14,5 +14,4 @@ We envisage further use cases such as:
 2. Data-Driven Security Board Games
 3. Attack Tree generation from unstructured data sources
 
-If you find this useful, please send me a mail at: tosin.oyetoyan@gmail.com
-And you are very much welcome to contribute :-)
+If you find this useful, please send me a mail at: "tosin.oyetoyan@gmail.com" and you are very much welcome to contribute to the keywords :-)
