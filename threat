@@ -1,0 +1,329 @@
+abnormal
+Abuse of Functionality
+active wiretapping
+adversary
+attack
+attacks
+attacked
+attack potential
+attacker
+adversary
+anonymous login
+arbitrary code
+attempt
+blocked
+back door
+backdoor
+backtrack attack
+Binary planting
+birthday attack
+Billion Laughs attack
+blind attack
+Blind SQL Injection
+Blind XPath Injection
+block
+break
+broken
+brute force
+bruteforce
+buffer overflow
+bypass
+bypasses
+bypassed
+Cache Poisoning
+Cash Overflow
+clickjacking
+clickjack
+clickjacked
+Code Injection
+command injection
+compromise
+Content Security Policy
+Content Spoofing
+corrupt
+corrupts
+corruption
+cookie tossing
+covert channel
+crack
+cracker
+cracking
+crash
+Credential stuffing
+Cross Frame Scripting
+cross-protocol theft
+cross-protocol thefts
+cross protocol theft
+cross protocol thefts
+cross-protocol attacks
+cross-protocol attack
+cross protocol attacks
+cross protocol attack
+Cross Site History Manipulation
+cross site resource forgery
+cross site scripting
+Cross Site Tracing
+cross-site resource forgery
+cross-site scripting
+Cross-User Defacement
+Cross User Defacement
+crsf
+Cryptanalysis
+Custom Special Character Injection
+cut and paste attack
+cut-and-paste attack
+cve
+dangling threat
+dangling vulnerability
+dangerous
+data loss
+Data Structure Attack
+dataloss
+deadlock
+deception
+deface
+denial of service
+Denial of Service
+denial-of-access
+denial-of-service
+dns poison
+dns poisoning
+DOS
+ddos
+denied
+denies
+dictionary attack
+Direct Dynamic Code Evaluation
+directory climbing
+disclose
+disclosure
+disrupt
+disruption
+distributed attack
+dot-dot-slash
+downgrade attack
+Easter egg
+eavesdropping
+eavesdrop
+eavesdropped
+elevation of privilege
+elevation of privileges
+escalation of privilege
+escalation of privileges
+Embedded Malicious Code
+erase
+Eval Injection
+evil
+evil wifi hotspot
+Execution After Redirect
+exit
+exploit
+expose
+exposure
+falsification
+fake
+faking
+faked
+flaw
+flooding
+Forced browsing
+forge
+Format string attack
+Fork bomb
+fraggle attack
+fraud
+freeze
+freezes
+Full Path Disclosure
+hang
+heap overflow
+heartbleed
+hijack
+hijack attack
+hostile
+HTTP Response Splitting
+ICMP flood
+impersonate
+incapacitation
+indirect attack
+information disclosure
+inject
+injection
+insecure
+inside attack
+integer overflow
+interception
+interpreter injection
+intruder
+intrusion
+invoking untrusted mobile code
+jamming
+kracker
+land attack
+ldap injection
+ldapi
+leak
+leaked
+leaks
+leaking
+leakage
+lfi
+local file inclusion
+locale attack
+log injection
+logic bomb
+malicious
+malware
+man in the middle
+man in the middle attack
+Man-in-the-browser attack
+Man-in-the-browser
+man-in-the-middle
+man-in-the-middle attack
+misconfiguration
+mitm
+modification
+modified
+modify
+modifies
+Morris Worm
+malicious logic
+natural disaster
+not trusted
+object hijack
+One-Click Attack
+overflow
+overwrite
+packet monkey
+page jacking
+pagejacking
+Parameter Delimiter
+Path Traversal
+penetrate
+penetration
+phishing
+phished
+piggyback attack
+ping of death
+ping sweep
+pollution attack
+Probabilistic Techniques
+Protocol Manipulation
+rainbow table
+ReDoS
+Reflected DOM Injection
+reflection attack
+reflection injection
+reflector attack
+Regular expression Denial of Service
+remote file inclusion
+replay attack
+repudiation
+Repudiation Attack
+resource consumption
+Resource Depletion
+Resource exhaustion
+Resource Injection
+Resource Manipulation
+reveal
+reverse engineering
+rfi
+scriptkiddy
+Server-Side Includes Injection
+Server-side Request Forgery
+SSRF
+Session fixation
+Session hijacking attack
+Session Prediction
+Setting Manipulation
+smurf attack
+snif
+sniff
+sniffing
+social engineering
+spam
+spams
+spamming
+spammed
+Special Element Injection
+spike
+spoof
+spoofs
+spoofing
+spyware
+sql injection
+sqli
+stack overflow
+steal
+stolen
+suspicious
+takeover
+tamper
+tampering
+tap jacking
+tarbomb
+teardrop attack
+theft
+threat
+time bomb
+tracker
+Traffic flood
+trick
+tricks
+tricked
+trojan
+Trojan horse
+ui redressing
+ui redress
+ui redress attack
+ui redress attacks
+unauthenticate
+unauthorize
+uncheck
+unicode attack
+Unicode Encoding
+unsafe
+unsecure
+untrusted
+untrusted data
+unencrypted
+url spoofing
+victim
+virus
+vulnerabilities
+vulnerability
+vulnerable
+weakness
+Web Parameter Tampering
+web frame attack
+web frame attacks
+web framing attack
+web framing attacks
+wiretapping
+worm
+xml attack
+xml injection
+xmli
+xml external entity
+xml external entity attack
+XPATH Injection
+xpath query tampering
+XSHM
+XSRF
+xss
+XSS
+xxe
+YAML bomb
+zombie
+Zip bomb
+zip of death
+likejacking
+cursorjacking
+password manager attack
+password manager attacks
+privilege escalation
+privilege elevation
+violate
+violates
+violated
+violating
